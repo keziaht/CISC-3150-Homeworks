@@ -1,0 +1,63 @@
+Enter Center Cooridnates: 	
+
+0
+0
+Enter Radius: 	
+
+5
+Enter Center Cooridnates: 	
+
+0
+15
+Enter Radius: 	
+
+5
+The Circles are separate
+
+Enter Center Cooridnates: 	
+
+0
+0
+Enter Radius: 	
+
+5
+Enter Center Cooridnates: 	
+
+0
+0
+Enter Radius: 	
+
+3
+One Circle is inside another
+
+Enter Center Cooridnates: 	
+
+0
+0
+Enter Radius: 	
+
+5
+Enter Center Cooridnates: 	
+
+0
+10
+Enter Radius: 	
+
+5
+The Circles are just touching
+
+Enter Center Cooridnates: 	
+
+0
+0
+Enter Radius: 	
+
+5
+Enter Center Cooridnates: 	
+
+0
+8
+Enter Radius: 	
+
+5
+The Circles are overlapping

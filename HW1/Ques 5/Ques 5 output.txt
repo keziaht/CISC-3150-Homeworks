@@ -1,0 +1,21 @@
+Enter coordinates: 	
+9
+0
+Enter coordinates: 	
+7
+5
+Enter coordinates: 	
+8
+7
+5.385164807134504	2.23606797749979	7.0710678118654755	Is a triangle
+
+Enter coordinates: 	
+0
+0
+Enter coordinates: 	
+6
+7
+Enter coordinates: 	
+0
+0
+9.219544457292887	9.219544457292887	0.0	Is not a triangle
