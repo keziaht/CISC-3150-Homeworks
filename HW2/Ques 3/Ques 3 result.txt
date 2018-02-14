@@ -1,0 +1,7 @@
+Enter a string:
+kikik
+This is a Palindrome
+
+Enter a string:
+hi
+This is not a Palindrome

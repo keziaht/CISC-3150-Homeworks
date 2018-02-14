@@ -1,0 +1,28 @@
+Type a String:
+ABC, easy as one two three
+A
+B
+C
+,
+ 
+e
+a
+s
+y
+ 
+a
+s
+ 
+o
+n
+e
+ 
+t
+w
+o
+ 
+t
+h
+r
+e
+e
