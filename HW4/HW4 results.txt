@@ -1,0 +1,88 @@
+Enter how many rows for 2D arrayof characters:
+3
+Fill out row: 1
+hy
+Fill out row: 2
+pl
+Fill out row: 3
+uk
+hpu
+hpk
+hlu
+hlk
+ypu
+ypk
+ylu
+ylk
+
+
+Enter how many rows for 2D arrayof characters:
+4
+Fill out row: 1
+ij
+Fill out row: 2
+kgfdt
+Fill out row: 3
+plu
+Fill out row: 4
+as
+ikpa
+ikps
+ikla
+ikls
+ikua
+ikus
+igpa
+igps
+igla
+igls
+igua
+igus
+ifpa
+ifps
+ifla
+ifls
+ifua
+ifus
+idpa
+idps
+idla
+idls
+idua
+idus
+itpa
+itps
+itla
+itls
+itua
+itus
+jkpa
+jkps
+jkla
+jkls
+jkua
+jkus
+jgpa
+jgps
+jgla
+jgls
+jgua
+jgus
+jfpa
+jfps
+jfla
+jfls
+jfua
+jfus
+jdpa
+jdps
+jdla
+jdls
+jdua
+jdus
+jtpa
+jtps
+jtla
+jtls
+jtua
+jtus
