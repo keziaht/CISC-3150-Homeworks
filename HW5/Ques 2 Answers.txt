@@ -1,0 +1,22 @@
+
+
+A. "Woof, woof, woof!" is printed on screen. The method being called is Dog's call(int). 
+    This is an example of overloading.
+
+B.  "I'm a cat, go away!" is printed on screen. The method being called is Cat's toString(), 
+    because println calls the toString method.
+
+C.  There's an error, Object doesn't have a call() method. 
+
+D.  Prints Pet@6d06d69c because it's calling Object's toString for Pet.
+
+E.  Prints "woof!". The method called is Dog's call(), this is overriding.
+
+F.  "Come here, kitty? ... Don't waste my time." is printed, the method being called is Cat's toString(String). 
+     This is overloading.
+
+G.  Error. Cat doesn't have a call(int) method.
+
+H. "four" is printed on screen. The method called is Pet's feet(), because Dog inherits from Pet.
+
+I.  Error. Pet doesn't have a call(int) method.

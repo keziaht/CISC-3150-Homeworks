@@ -1,0 +1,15 @@
+7986CPU: AMD FX-8350 8-Core Processor
+
+
+Verion 1 ran for lowest time 176688 milis or 2.9 minuites; 78.54% of the dots fell inside the circle;
+Verion 1 highest time was 187593 milis or 3.1 minuites; 78.53% of the dots fell inside the circle;
+
+
+Version 2 ran for lowest time 7986 milis; 78.54% of the dots fell inside the circle;
+Version 2 highest time was 9191 milis; 78.54% of the dots fell inside the circle;
+
+My code got an average of 2126.8% faster
+
+The optimization I used was from this question on stack exchange, https://stackoverflow.com/questions/49077931/how-can-i-best-optimize-a-loop-that-will-loop-over-a-billion-times. 
+With multithreading, I could divide the large loop into smaller threads that ran simultaniously on different cores. Becuase the tasks were all completely independent, the threading was
+very easy to impliment.
