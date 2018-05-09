@@ -1,0 +1,49 @@
+ |____HW1
+   |____HW2
+     |____HW4
+       |____Combine.java
+       |____HW4 results.txt
+     |____Ques 1
+       |____Pyramid.java
+       |____Ques 1 results.txt
+     |____Ques 2
+       |____Calender.java
+       |____Ques 2 results.txt
+     |____Ques 3
+       |____Palindrome.java
+       |____Ques 3 result.txt
+     |____Ques 5
+       |____Delimiter.java
+       |____Ques 5 results.txt
+     |____Ques 6
+       |____Delimiter2.java
+       |____Ques 6 result.txt
+   |____HW5
+     |____Ques 1
+       |____Dots.java
+       |____Dots2.java
+       |____Pet.java
+       |____Ques 1 results.txt
+       |____Ques 2 Answers.txt
+     |____Ques 2
+   |____Ques 1
+     |____Agreement Statement.docx
+   |____Ques 2
+     |____Area.java
+     |____Ques 2 output.JPG
+   |____Ques 3
+     |____Months.java
+     |____Ques 3 result.txt
+   |____Ques 4
+     |____Homework.java
+     |____HW6
+       |____Homework 6 results.txt
+       |____Queen.java
+     |____Ques 4 results.JPG
+     |____Test.txt
+   |____Ques 5
+     |____Ques 5 output.txt
+     |____Triangle.java
+   |____Ques 6
+     |____Circle.java
+     |____Ques 6 output.txt
